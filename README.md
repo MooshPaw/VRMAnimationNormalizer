@@ -11,4 +11,4 @@ Vibecoded script (if you couldn't tell from the 1000 lines of code it uses) that
 * Drag your original avatar under **Source Model**
 * Drag your Normalized avatar under **Normalized VRM**
 * Drag the animation clip you wish to normalize
-* Use the same sample rate as your animation (usually 60). Check it out on the top right
+* Use the same sample rate as your animation (usually 60)
